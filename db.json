@@ -1,27 +1,27 @@
 {
-    "prescription": [
-      { "slno": 1, "date": "01-06-2020", "dept": "Medicine" },
-      { "slno": 2, "date": "02-06-2020", "dept": "Orthopedic" },
-      { "slno": 3, "date": "03-06-2020", "dept": "ENT" },
-      { "slno": 4, "date": "04-06-2020", "dept": "Neurology" },
-      { "slno": 5, "date": "05-06-2020", "dept": "Orthopedic" },
-      { "slno": 6, "date": "06-06-2020", "dept": "Cardio" },
-      { "slno": 7, "date": "07-06-2020", "dept": "Medicine" },
-      { "slno": 8, "date": "08-06-2020", "dept": "Neurology" },
-      { "slno": 9, "date": "09-06-2020", "dept": "Medicine" },
-      { "slno": 10, "date": "10-06-2020", "dept": "Orthopedic" }
-    ],
-    "patients": [
-      { "patientName": "Arindam Deb", "age": "25", "sex": "male", "date": "01-06-2020" },
-      { "patientName": "Ayan Bhattacharjee", "age": "35", "sex": "male", "date": "02-06-2020" },
-      { "patientName": "Suman Debnath", "age": "45", "sex": "male", "date": "03-06-2020" },
-      { "patientName": "Rohit Dey", "age": "20", "sex": "male", "date": "04-06-2020" },
-      { "patientName": "Mina Debbarma", "age": "30", "sex": "Female", "date": "05-06-2020" },
-      { "patientName": "Sachin Singh", "age": "25", "sex": "male", "date": "06-06-2020" },
-      { "patientName": "Nayan Das", "age": "60", "sex": "male", "date": "07-06-2020" },
-      { "patientName": "Rajat Das", "age": "25", "sex": "male", "date": "08-06-2020" },
-      { "patientName": "Kriti Singh", "age": "50", "sex": "Female", "date": "09-06-2020" },
-      { "patientName": "Dipayan Paul", "age": "25", "sex": "male", "date": "29-02-2020" }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "prescription": [
+    { "slno": 1, "date": "01-06-2020", "dept": "Medicine" },
+    { "slno": 2, "date": "02-06-2020", "dept": "Orthopedic" },
+    { "slno": 3, "date": "03-06-2020", "dept": "ENT" },
+    { "slno": 4, "date": "04-06-2020", "dept": "Neurology" },
+    { "slno": 5, "date": "05-06-2020", "dept": "Orthopedic" },
+    { "slno": 6, "date": "06-06-2020", "dept": "Cardio" },
+    { "slno": 7, "date": "07-06-2020", "dept": "Medicine" },
+    { "slno": 8, "date": "08-06-2020", "dept": "Neurology" },
+    { "slno": 9, "date": "09-06-2020", "dept": "Medicine" },
+    { "slno": 10, "date": "10-06-2020", "dept": "Orthopedic" }
+  ],
+  "patients": [
+    { "uhid": "123456", "patientName": "Arindam Deb", "age": "25", "sex": "male", "date": "01-06-2020" },
+    { "uhid": "123457", "patientName": "Ayan Bhattacharjee", "age": "35", "sex": "male", "date": "02-06-2020" },
+    { "uhid": "987654", "patientName": "Suman Debnath", "age": "45", "sex": "male", "date": "03-06-2020" },
+    { "uhid": "456789", "patientName": "Rohit Dey", "age": "20", "sex": "male", "date": "04-06-2020" },
+    { "uhid": "654321", "patientName": "Mina Debbarma", "age": "30", "sex": "Female", "date": "05-06-2020" },
+    { "uhid": "753951", "patientName": "Sachin Singh", "age": "25", "sex": "male", "date": "06-06-2020" },
+    { "uhid": "159852", "patientName": "Nayan Das", "age": "60", "sex": "male", "date": "07-06-2020" },
+    { "uhid": "268426", "patientName": "Rajat Das", "age": "25", "sex": "male", "date": "08-06-2020" },
+    { "uhid": "957153", "patientName": "Kriti Singh", "age": "50", "sex": "Female", "date": "09-06-2020" },
+    { "uhid": "659217", "patientName": "Dipayan Paul", "age": "25", "sex": "male", "date": "29-02-2020" }
+  ],
+  "profile": { "name": "typicode" }
+}

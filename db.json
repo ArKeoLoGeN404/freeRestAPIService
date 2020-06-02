@@ -13,15 +13,15 @@
     ],
     "patients": [
       { "patientName": "Arindam Deb", "age": "25", "sex": "male", "date": "01-06-2020" },
-      { "patientName": "Test 2", "age": "35", "sex": "Female", "date": "02-06-2020" },
-      { "patientName": "Test 3", "age": "45", "sex": "Female", "date": "03-06-2020" },
-      { "patientName": "Test 4", "age": "20", "sex": "male", "date": "04-06-2020" },
-      { "patientName": "Test 5", "age": "30", "sex": "Female", "date": "05-06-2020" },
-      { "patientName": "Test 6", "age": "25", "sex": "male", "date": "06-06-2020" },
-      { "patientName": "Test 7", "age": "60", "sex": "Female", "date": "07-06-2020" },
-      { "patientName": "Test 8", "age": "25", "sex": "Female", "date": "08-06-2020" },
-      { "patientName": "Test 9", "age": "50", "sex": "male", "date": "09-06-2020" },
-      { "patientName": "Test 10", "age": "25", "sex": "Female", "date": "29-02-2020" }
+      { "patientName": "Ayan Bhattacharjee", "age": "35", "sex": "male", "date": "02-06-2020" },
+      { "patientName": "Suman Debnath", "age": "45", "sex": "male", "date": "03-06-2020" },
+      { "patientName": "Rohit Dey", "age": "20", "sex": "male", "date": "04-06-2020" },
+      { "patientName": "Mina Debbarma", "age": "30", "sex": "Female", "date": "05-06-2020" },
+      { "patientName": "Sachin Singh", "age": "25", "sex": "male", "date": "06-06-2020" },
+      { "patientName": "Nayan Das", "age": "60", "sex": "male", "date": "07-06-2020" },
+      { "patientName": "Rajat Das", "age": "25", "sex": "male", "date": "08-06-2020" },
+      { "patientName": "Kriti Singh", "age": "50", "sex": "Female", "date": "09-06-2020" },
+      { "patientName": "Dipayan Paul", "age": "25", "sex": "male", "date": "29-02-2020" }
     ],
     "profile": { "name": "typicode" }
   }

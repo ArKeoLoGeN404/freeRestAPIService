@@ -21,7 +21,7 @@
       { "patientName": "Test 7", "age": "60", "sex": "Female", "date": "07-06-2020" },
       { "patientName": "Test 8", "age": "25", "sex": "Female", "date": "08-06-2020" },
       { "patientName": "Test 9", "age": "50", "sex": "male", "date": "09-06-2020" },
-      { "patientName": "Test 10", "age": "25", "sex": "Female", "date": "10-06-2020" }
+      { "patientName": "Test 10", "age": "25", "sex": "Female", "date": "29-02-2020" }
     ],
     "profile": { "name": "typicode" }
   }

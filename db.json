@@ -1,15 +1,15 @@
 {
   "prescription": [
-    { "slno": 1, "date": "01-06-2020", "dept": "Medicine" },
-    { "slno": 2, "date": "02-06-2020", "dept": "Orthopedic" },
-    { "slno": 3, "date": "03-06-2020", "dept": "ENT" },
-    { "slno": 4, "date": "04-06-2020", "dept": "Neurology" },
-    { "slno": 5, "date": "05-06-2020", "dept": "Orthopedic" },
-    { "slno": 6, "date": "06-06-2020", "dept": "Cardio" },
-    { "slno": 7, "date": "07-06-2020", "dept": "Medicine" },
-    { "slno": 8, "date": "08-06-2020", "dept": "Neurology" },
-    { "slno": 9, "date": "09-06-2020", "dept": "Medicine" },
-    { "slno": 10, "date": "10-06-2020", "dept": "Orthopedic" }
+    { "slno": 1, "date": "01-06-2020", "dept": "Medicine", "prescription": ""},
+    { "slno": 2, "date": "02-06-2020", "dept": "Orthopedic", "prescription": "pdf 2" },
+    { "slno": 3, "date": "03-06-2020", "dept": "ENT", "prescription": "pdf 3" },
+    { "slno": 4, "date": "04-06-2020", "dept": "Neurology", "prescription": "pdf 4" },
+    { "slno": 5, "date": "05-06-2020", "dept": "Orthopedic", "prescription": "pdf 5" },
+    { "slno": 6, "date": "06-06-2020", "dept": "Cardio", "prescription": "pdf 6" },
+    { "slno": 7, "date": "07-06-2020", "dept": "Medicine", "prescription": "pdf 7" },
+    { "slno": 8, "date": "08-06-2020", "dept": "Neurology", "prescription": "pdf 8" },
+    { "slno": 9, "date": "09-06-2020", "dept": "Medicine", "prescription": "pdf 9" },
+    { "slno": 10, "date": "10-06-2020", "dept": "Orthopedic", "prescription": "pdf 10" }
   ],
   "patients": [
     { "uhid": "123456", "patientName": "Arindam Deb", "age": "25", "sex": "male", "date": "01-06-2020" },
